@@ -1,0 +1,33 @@
+{
+  "name": "zomato-clone",
+  "version": "1.0.0",
+  "description": "A Zomato clone website",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aashutosh0033/Zomato-Clone.git"
+  },
+  "keywords": [
+    "zomato",
+    "clone",
+    "reactjs"
+  ],
+  "author": "Aashutosh Sarode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aashutosh0033/Zomato-Clone/issues"
+  },
+  "homepage": "https://github.com/Aashutosh0033/Zomato-Clone#readme",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
